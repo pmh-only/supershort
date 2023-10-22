@@ -17,3 +17,5 @@ https://pmh.codes?2Q4279
 302 Found
 Location: https://google.com
 ```
+
+or simply just type `pmh.codes?2Q4279` in your address bar!
